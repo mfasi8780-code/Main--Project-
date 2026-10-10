@@ -65,9 +65,3 @@ The main objective of this project is to analyze financial transactions, identif
 
 ## 🏁 Conclusion
 The BudgetWise project demonstrates an end-to-end data analytics workflow, from data cleaning and exploratory analysis to interactive Power BI dashboard development. The insights help users understand spending behaviour, monitor expenses, and make better financial decisions.
-
-## 👩‍💻 Author
-**Fasi**
-
-## 🔖 Skills
-Python | SQL | Excel | Power BI | DAX | Data Cleaning | EDA | Data Visualization
